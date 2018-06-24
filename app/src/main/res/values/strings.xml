@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScoreKeeper1</string>
+    <string name="patna">patna</string>
+    <string name="tamil">tamil</string>
+    <string name="ScoreP">0</string>
+    <string name="scoreT">0</string>
+    <string name="threepoints">+3 point</string>
+    <string name="twopoints">+2 point</string>
+    <string name="onepoints">+1 point</string>
+    <string name="reset">reset</string>
+    <string name="bonuspoint">+bonus</string>
+    <string name="result">result</string>
+    <string name="congratulations">congratulations</string>
+</resources>
